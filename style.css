@@ -1,0 +1,16 @@
+body {
+background: #3397ff;
+line-height: 1.5em;
+main {
+position: absolute;
+top: calc(50% - 200px / 2);
+left: calc(50% - 200px / 2);
+width: 200px;
+height: 200px;
+background: rgba(0, 0, 0, 0.4);
+color: #fff;
+font-size: 16px;
+text-transform: uppercase;
+display: flex;
+align-items: center;
+justify-content: center;
